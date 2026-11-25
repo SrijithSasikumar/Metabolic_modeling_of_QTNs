@@ -21,3 +21,6 @@ __________________________________________________________________________
 ### Acknowledgement
 * [Centre for Integrative Biology and Systems medicinE](https://ibse.iitm.ac.in/)
 * [Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI)](https://rbcdsai.iitm.ac.in/)
+
+### Publication
+Sasikumar, S., Kumar, S.P., Bhatt, N.P. et al. Genome-scale metabolic modelling identifies reactions mediated by SNP-SNP interactions associated with yeast sporulation. npj Syst Biol Appl 11, 50 (2025). https://doi.org/10.1038/s41540-025-00503-3
